@@ -3578,6 +3578,17 @@
       "port"
     ]
   },
+    {
+    "id": 425,
+    "name": "DELTARUNE",
+    "cover": "{COVER_URL}/425.png",
+    "url": "{HTML_URL}/425.html",
+    "author": "Toby Fox",
+    "authorLink": "https://store.steampowered.com/app/1671210/DELTARUNE/",
+    "special": [
+      "port"
+    ]
+  },
   {
     "id": 426,
     "name": "Andy's Apple Farm",

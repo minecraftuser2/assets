@@ -695,7 +695,7 @@
     "id": 82,
     "name": "Cookie Clicker",
     "cover": "{COVER_URL}/82.png",
-    "url": "{HTML_URL}/82-u.html",
+    "url": "{HTML_URL}/82-a.html",
     "author": "Orteil",
     "authorLink": "https://orteil.dashnet.org"
   },
@@ -5103,7 +5103,7 @@
     "id": 596,
     "name": "[!] COMMENTS",
     "cover": "{COVER_URL}/596-uu.png",
-    "url": "{HTML_URL}/596-u.html",
+    "url": "{HTML_URL}/596-fixx.html",
     "author": "gn-math",
     "authorLink": "https://gn-math.github.io",
     "featured": true,
@@ -7029,6 +7029,84 @@
     "cover": "{COVER_URL}/787.png",
     "url": "{HTML_URL}/787.html", 
     "author": "BubbleTabby, sunsuke",
-    "authorLink": "https://store.steampowered.com/app/3045200/Beatblock/"
+    "authorLink": "https://store.steampowered.com/app/3045200/Beatblock/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 788,
+    "name": "Vib-Robbin",
+    "cover": "{COVER_URL}/788.png",
+    "url": "{HTML_URL}/788.html", 
+    "author": "NanaOn-Sha, Japan Studio",
+    "authorLink": "https://www.nanaon-sha.co.jp/",
+    "special": [
+      "emulator",
+      "psx"
+    ]
+  },
+  {
+    "id": 789,
+    "name": "Stardew Valley",
+    "cover": "{COVER_URL}/789.png",
+    "url": "{HTML_URL}/789.html", 
+    "author": "The Secret Police Limited, ConcernedApe, Cirsius",
+    "authorLink": "https://www.stardewvalley.net/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 790,
+    "name": "Helltaker",
+    "cover": "{COVER_URL}/790.png",
+    "url": "{HTML_URL}/790.html", 
+    "author": "Vanripper, wasm.rip",
+    "authorLink": "https://vanripper.itch.io/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 791,
+    "name": "Who's Your Daddy",
+    "cover": "{COVER_URL}/791.png",
+    "url": "{HTML_URL}/791.html", 
+    "author": "Evil Tortilla Games, reeyuki",
+    "authorLink": "https://store.steampowered.com/app/427730/Whos_Your_Daddy/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 792,
+    "name": "Escape Road 3",
+    "cover": "{COVER_URL}/792.png",
+    "url": "{HTML_URL}/792.html", 
+    "author": "AzGames",
+    "authorLink": "https://azgames.io/escape-road-3"
+  },
+  {
+    "id": 793,
+    "name": "Lethal Ape",
+    "cover": "{COVER_URL}/793.png",
+    "url": "{HTML_URL}/793.html", 
+    "author": "StellaDev",
+    "authorLink": "https://stella-dev.itch.io/lethal-ape",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 794,
+    "name": "Fear & Hunger 2: Termina",
+    "cover": "{COVER_URL}/794.png",
+    "url": "{HTML_URL}/794.html", 
+    "author": "Miro Haverinen, Happy Paintings",
+    "authorLink": "https://store.steampowered.com/app/2171440/Fear__Hunger_2_Termina/",
+    "special": [
+      "port"
+    ]
   }
 ]
